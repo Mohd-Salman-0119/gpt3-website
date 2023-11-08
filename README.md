@@ -1,70 +1,49 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# GPT-3 Responsive Website
+## [Live App](https://mohd-salman-0119.github.io/gpt3-website)
+![68747470733a2f2f692e6962622e636f2f5452354c57397a2f696d6167652e706e67](https://github.com/Mohd-Salman-0119/gpt3-website/assets/112762975/05a42e07-7708-4659-89ab-73ebccd9b90b)
 
-## Available Scripts
+Welcome to the GPT-3 Responsive Website project! This modern website is designed to provide comprehensive information about GPT-3, a state-of-the-art language model developed by OpenAI. It offers an intuitive and aesthetically pleasing user interface and an excellent user experience.
 
-In the project directory, you can run:
+## Tech Stack
 
-### `npm start`
+This project is built using the following technologies:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **React**: We've used React, a popular JavaScript library for building user interfaces, to create a dynamic and responsive web application. React's component-based architecture makes it easier to manage complex user interfaces.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Vanilla CSS**: The project's styling is implemented using plain CSS (Cascading Style Sheets). We've crafted a visually appealing design to ensure an engaging and enjoyable user experience.
 
-### `npm test`
+## How to Install
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To get this project up and running on your local machine, follow these simple steps:
 
-### `npm run build`
+1. **Clone the Repository**: First, copy the repository URL and then clone the repository using Git.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    ```bash
+    git clone <repository_url>
+    ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. **Navigate to the Repo Directory**: Change your current directory to the project folder.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    ```bash
+    cd repo-directory
+    ```
 
-### `npm run eject`
+3. **Install Dependencies**: Use npm (Node Package Manager) to install the project's dependencies.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+    ```bash
+    npm install
+    ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+    or
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+    ```bash
+    npm i
+    ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## How to Run the Project
 
-## Learn More
+Once you've successfully installed the dependencies, you can start the project with the following command:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```bash
+npm run start
