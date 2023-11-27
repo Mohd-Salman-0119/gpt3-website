@@ -1,6 +1,6 @@
 
 # GPT-3 Responsive Website
-## [Live App](https://mohd-salman-0119.github.io/gpt3-website)
+## [Live App](https://gpt3-jsm-project.netlify.app/)
 ![68747470733a2f2f692e6962622e636f2f5452354c57397a2f696d6167652e706e67](https://github.com/Mohd-Salman-0119/gpt3-website/assets/112762975/05a42e07-7708-4659-89ab-73ebccd9b90b)
 
 Welcome to the GPT-3 Responsive Website project! This modern website is designed to provide comprehensive information about GPT-3, a state-of-the-art language model developed by OpenAI. It offers an intuitive and aesthetically pleasing user interface and an excellent user experience.
